@@ -1,0 +1,2 @@
+rootProject.name='UserLibraryExample'
+include ':app', ':userslibrary-1_0'

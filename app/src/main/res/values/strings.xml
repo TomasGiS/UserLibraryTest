@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserPersistenceExample</string>
+    <string name="register">Registrar</string>
+    <string name="accedir">Login</string>
+    <string name="valid_user_toast">The user is a valid user? %1$b</string>
+    <string name="inserted_user_toast">The user is inserted? %1$b</string>
+    <string name="deleted_user_toast">The user is deleted? %1$b</string>
+    <string name="delete_button">delete</string>
+    <string name="inserted_bookmark_toast">The bookmark is inserted %1$b</string>
+    <string name="deleted_bookmark_toast">The bookmark is deleted %1$b</string>
+</resources>
